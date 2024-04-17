@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mnxcln9yck9mot7o?svg=true)](https://ci.appveyor.com/project/Sirotina/selenide)
